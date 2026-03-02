@@ -33,7 +33,7 @@ next_page: "membership"
 
     Als dit e-mailadres niet werkt, probeer dan in te loggen met het registratiesysteem van de organisatie via de knoppen op de inlogpagina.
 
-    Nog steeds geen toegang? Neem contact op met support via [support@meetwonka.com](mailto:support@meetwonka.com)
+    Nog steeds geen toegang? Neem contact op met support via [support@tooli.be](mailto:support@tooli.be)
   </Accordion>
 
   <Accordion title="Ik heb geen verificatie-e-mail ontvangen">
@@ -43,7 +43,7 @@ next_page: "membership"
     - Wacht 5 minuten, het kan even duren voordat de e-mail aankomt
     - Vraag een nieuwe verificatielink aan
 
-    Nog steeds geen verificatie-e-mail? Neem contact op met [support@meetwonka.com](mailto:support@meetwonka.com)
+    Nog steeds geen verificatie-e-mail? Neem contact op met [support@tooli.be](mailto:support@tooli.be)
   </Accordion>
 
   <Accordion title="Ik ben lid, maar de Buildwise-knop werkt niet">
@@ -59,7 +59,7 @@ next_page: "membership"
 
     Je kunt het ook opnieuw proberen in privé-/incognitomodus.
 
-    Nog steeds geblokkeerd? Neem contact op met [support@meetwonka.com](mailto:support@meetwonka.com)
+    Nog steeds geblokkeerd? Neem contact op met [support@tooli.be](mailto:support@tooli.be)
   </Accordion>
 
   <Accordion title="Ik ben onlangs lid geworden. Wanneer kan ik toegang krijgen tot Tooli?">
@@ -79,6 +79,6 @@ next_page: "membership"
     **Als je eerst bent ingelogd via je organisatie (\"via een organisatie\"):**  
     Je account wordt beheerd door die organisatie. In dat geval moet je blijven inloggen via je organisatie en kun je niet overschakelen naar e-mail/wachtwoord-inloggen.
 
-    Meer vragen rondom inloggen op Tooli? Neem eenvoudig contact op met onze [helpdesk](mailto:support@meetwonka.com).
+    Meer vragen rondom inloggen op Tooli? Neem eenvoudig contact op met onze [helpdesk](mailto:support@tooli.be).
   </Accordion>
 </AccordionGroup>

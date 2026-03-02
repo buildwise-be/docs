@@ -170,5 +170,5 @@ next_page: "what-is-tooli"
 ***
 
 <Note>
-  Didn't manage, or you have questions or remarks? You can reach us directly [here](mailto:support@meetwonka.com)
+  Didn't manage, or you have questions or remarks? You can reach us directly [here](mailto:support@tooli.be)
 </Note>

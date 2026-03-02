@@ -33,7 +33,7 @@ next_page: "membership"
 
     If this email address does not work, try to log in with the organization's registration system via the buttons on the log-in page.
 
-    Still no access? Contact support via [support@meetwonka.com](mailto:support@meetwonka.com)
+    Still no access? Contact support via [support@tooli.be](mailto:support@tooli.be)
   </Accordion>
 
   <Accordion title="I did not receive a verification email">
@@ -43,7 +43,7 @@ next_page: "membership"
     - Wait for 5 minutes, it can take some time for the email to arrive
     - Request a new verification link
 
-    Still no verification email? Contact [support@meetwonka.com](mailto:support@meetwonka.com)
+    Still no verification email? Contact [support@tooli.be](mailto:support@tooli.be)
   </Accordion>
 
   <Accordion title="I am a member but the Buildwise login button does not work">
@@ -59,7 +59,7 @@ next_page: "membership"
 
     You can also try again in private/incognito mode.
 
-    Still blocked? Contact [support@meetwonka.com](mailto:support@meetwonka.com)
+    Still blocked? Contact [support@tooli.be](mailto:support@tooli.be)
   </Accordion>
 
   <Accordion title="I recently became a member. When can I access Tooli?">
@@ -79,6 +79,6 @@ next_page: "membership"
     **If you first logged in via your organization (\"via an organization\"):**  
     Your account is managed by that organization. In that case, you must continue logging in via your organization and cannot switch to email/password login.
 
-    More questions about logging in to Tooli? Simply contact our [helpdesk](mailto:support@meetwonka.com).
+    More questions about logging in to Tooli? Simply contact our [helpdesk](mailto:support@tooli.be).
   </Accordion>
 </AccordionGroup>

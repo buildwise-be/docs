@@ -64,7 +64,7 @@ Tooli est accessible à Buildwise, Partenaires, ses membres, ou collaborateurs.
 
 Lors de la création d'un compte, l'Utilisateur s'engage à fournir des informations exactes et à jour. Buildwise se réserve le droit de suspendre ou de refuser tout accès en cas d'inexactitude ou de manquement.
 
-Le cas échéant, l'Utilisateur s'engage à préserver la confidentialité de son identifiant et de son mot de passe et à ne pas les divulguer à des tiers. Il demeure seul responsable de toute utilisation de son compte, même à son insu. En cas de doute quant à la sécurité de son mot de passe, il lui appartient de procéder immédiatement à sa modification ou d'en informer sans délai Wonka AI bv, Luikersteenweg 165, 3500 Hasselt, Belgium, BE 0800.787.953 par écrit sur l'adresse email support@meetwonka.be.
+Le cas échéant, l'Utilisateur s'engage à préserver la confidentialité de son identifiant et de son mot de passe et à ne pas les divulguer à des tiers. Il demeure seul responsable de toute utilisation de son compte, même à son insu. En cas de doute quant à la sécurité de son mot de passe, il lui appartient de procéder immédiatement à sa modification ou d'en informer sans délai Wonka AI bv, Luikersteenweg 165, 3500 Hasselt, Belgium, BE 0800.787.953 par écrit sur l'adresse email support@tooli.be.
 
 L'identifiant et le mot de passe sont strictement personnels à l'Utilisateur. Il lui est interdit de partager son accès à Tooli avec des tiers..
 

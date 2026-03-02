@@ -64,7 +64,7 @@ Buildwise, Partners, leden en medewerkers hebben toegang tot Tooli.
 
 Bij het aanmaken van een account verbindt de Gebruiker zich ertoe om juiste en up-to-date inlichtingen te verstrekken. Buildwise behoudt zich het recht voor om elke toegang op te schorten of te weigeren in geval van onjuiste of onvolledige informatie.
 
-In voorkomend geval verbindt de Gebruiker zich ertoe om zijn gebruikersnaam en wachtwoord geheim te houden en niet mee te delen aan derden. Hij blijft als enige verantwoordelijk voor elk gebruik van zijn account, zelfs buiten zijn medeweten. Bij twijfel over de veiligheid van zijn wachtwoord moet hij dit onmiddellijk wijzigen of het probleem zo snel mogelijk schriftelijk melden aan Wonka AI bv, Luikersteenweg 165, 3500 Hasselt, België, BE 0800.787.953 op het e-mailadres support@meetwonka.be.
+In voorkomend geval verbindt de Gebruiker zich ertoe om zijn gebruikersnaam en wachtwoord geheim te houden en niet mee te delen aan derden. Hij blijft als enige verantwoordelijk voor elk gebruik van zijn account, zelfs buiten zijn medeweten. Bij twijfel over de veiligheid van zijn wachtwoord moet hij dit onmiddellijk wijzigen of het probleem zo snel mogelijk schriftelijk melden aan Wonka AI bv, Luikersteenweg 165, 3500 Hasselt, België, BE 0800.787.953 op het e-mailadres support@tooli.be.
 
 De gebruikersnaam en het wachtwoord zijn strikt persoonlijk voor de Gebruiker. Hij mag zijn toegang tot Tooli niet delen met derden.
 

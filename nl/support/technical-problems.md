@@ -34,7 +34,7 @@ next_page: "mobile-and-device-support"
     1. De pagina te vernieuwen
     2. Uit te loggen en opnieuw in te loggen
 
-    Zit je nog steeds vast? Neem contact op met ons supportteam via [support@meetwonka.com](mailto:support@meetwonka.com)
+    Zit je nog steeds vast? Neem contact op met ons supportteam via [support@tooli.be](mailto:support@tooli.be)
   </Accordion>
 
   <Accordion title="Welke bestandstypen ondersteunt Tooli?">

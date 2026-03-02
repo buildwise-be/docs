@@ -170,5 +170,5 @@ next_page: "what-is-tooli"
 ***
 
 <Note>
-  Niet gelukt, of je hebt vragen of opmerkingen? Je kunt ons [hier](mailto:support@meetwonka.com) bereiken.
+  Niet gelukt, of je hebt vragen of opmerkingen? Je kunt ons [hier](mailto:support@tooli.be) bereiken.
 </Note>

@@ -34,7 +34,7 @@ next_page: "mobile-and-device-support"
     1. De rafraîchir la page
     2. De vous déconnecter et de vous reconnecter
 
-    Toujours bloqué ? Contactez notre équipe de support via [support@meetwonka.com](mailto:support@meetwonka.com)
+    Toujours bloqué ? Contactez notre équipe de support via [support@tooli.be](mailto:support@tooli.be)
   </Accordion>
 
   <Accordion title="Quels types de fichiers Tooli prend-il en charge ?">

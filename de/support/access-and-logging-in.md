@@ -33,7 +33,7 @@ next_page: "membership"
 
     Wenn diese E-Mail-Adresse nicht funktioniert, versuchen Sie, sich über die Buttons auf der Anmeldeseite mit dem Registrierungssystem Ihrer Organisation anzumelden.
 
-    Immer noch kein Zugang? Kontaktieren Sie den Support unter [support@meetwonka.com](mailto:support@meetwonka.com)
+    Immer noch kein Zugang? Kontaktieren Sie den Support unter [support@tooli.be](mailto:support@tooli.be)
   </Accordion>
 
   <Accordion title="Ich habe keine Verifizierungs-E-Mail erhalten">
@@ -43,7 +43,7 @@ next_page: "membership"
     - Warten Sie 5 Minuten, es kann einige Zeit dauern, bis die E-Mail ankommt
     - Fordern Sie einen neuen Verifizierungslink an
 
-    Immer noch keine Verifizierungs-E-Mail? Kontaktieren Sie [support@meetwonka.com](mailto:support@meetwonka.com)
+    Immer noch keine Verifizierungs-E-Mail? Kontaktieren Sie [support@tooli.be](mailto:support@tooli.be)
   </Accordion>
 
   <Accordion title="Ich bin Mitglied, aber der Buildwise-Button funktioniert nicht">
@@ -59,7 +59,7 @@ next_page: "membership"
 
     Sie können es auch im privaten/Inkognito-Modus erneut versuchen.
 
-    Immer noch gesperrt? Kontaktieren Sie [support@meetwonka.com](mailto:support@meetwonka.com)
+    Immer noch gesperrt? Kontaktieren Sie [support@tooli.be](mailto:support@tooli.be)
   </Accordion>
 
   <Accordion title="Ich bin kürzlich Mitglied geworden. Wann kann ich auf Tooli zugreifen?">
@@ -79,6 +79,6 @@ next_page: "membership"
     **Wenn Sie sich zuerst über Ihre Organisation angemeldet haben (\"über eine Organisation\"):**  
     Ihr Konto wird von dieser Organisation verwaltet. In diesem Fall müssen Sie sich weiterhin über Ihre Organisation anmelden und können nicht zur E-Mail/Passwort-Anmeldung wechseln.
 
-    Weitere Fragen zum Anmelden bei Tooli? Kontaktieren Sie einfach unseren [Helpdesk](mailto:support@meetwonka.com).
+    Weitere Fragen zum Anmelden bei Tooli? Kontaktieren Sie einfach unseren [Helpdesk](mailto:support@tooli.be).
   </Accordion>
 </AccordionGroup>

@@ -34,7 +34,7 @@ next_page: "mobile-and-device-support"
     1. Refreshing the page
     2. Logging out and back in
 
-    Still stuck? Contact our support team via [support@meetwonka.com](mailto:support@meetwonka.com)
+    Still stuck? Contact our support team via [support@tooli.be](mailto:support@tooli.be)
   </Accordion>
 
   <Accordion title="What file types does Tooli support?">

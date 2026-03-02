@@ -63,7 +63,7 @@ Tooli is accessible to Buildwise, Partners, members, or collaborators.
 
 When creating an account, the User undertakes to provide accurate and up-to-date information. Buildwise reserves the right to suspend or refuse any access in case of inaccuracy or breach.
 
-Where applicable, the User undertakes to preserve the confidentiality of their username and password and not to disclose them to third parties. The User remains solely responsible for any use of their account, even without their knowledge. In case of doubt as to the security of their password, the User must immediately change it or inform Wonka AI bv, Luikersteenweg 165, 3500 Hasselt, Belgium, BE 0800.787.953 in writing without delay at the email address support@meetwonka.be.
+Where applicable, the User undertakes to preserve the confidentiality of their username and password and not to disclose them to third parties. The User remains solely responsible for any use of their account, even without their knowledge. In case of doubt as to the security of their password, the User must immediately change it or inform Wonka AI bv, Luikersteenweg 165, 3500 Hasselt, Belgium, BE 0800.787.953 in writing without delay at the email address support@tooli.be.
 
 The username and password are strictly personal to the User. The User is prohibited from sharing their access to Tooli with third parties.
 

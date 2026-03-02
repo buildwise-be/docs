@@ -34,7 +34,7 @@ next_page: "mobile-and-device-support"
     1. Die Seite zu aktualisieren
     2. Sich abzumelden und erneut anzumelden
 
-    Immer noch Probleme? Kontaktieren Sie unser Support-Team unter [support@meetwonka.com](mailto:support@meetwonka.com)
+    Immer noch Probleme? Kontaktieren Sie unser Support-Team unter [support@tooli.be](mailto:support@tooli.be)
   </Accordion>
 
   <Accordion title="Welche Dateitypen unterstützt Tooli?">
