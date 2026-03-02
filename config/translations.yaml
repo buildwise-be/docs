@@ -1,0 +1,95 @@
+# UI strings and labels for all languages
+ui:
+  # Common actions
+  actions:
+    read_more:
+      en: "Read more"
+      nl: "Lees meer"
+      fr: "Lire la suite"
+      de: "Weiterlesen"
+    
+    get_started:
+      en: "Get Started"
+      nl: "Aan de slag"
+      fr: "Commencer"
+      de: "Loslegen"
+    
+    learn_more:
+      en: "Learn More"
+      nl: "Meer weten"
+      fr: "En savoir plus"
+      de: "Mehr erfahren"
+    
+    contact_us:
+      en: "Contact Us"
+      nl: "Contacteer ons"
+      fr: "Contactez-nous"
+      de: "Kontaktieren Sie uns"
+
+  # Navigation
+  navigation:
+    home:
+      en: "Home"
+      nl: "Home"
+      fr: "Accueil"
+      de: "Startseite"
+    
+    search:
+      en: "Search"
+      nl: "Zoeken"
+      fr: "Rechercher"
+      de: "Suchen"
+    
+    language:
+      en: "Language"
+      nl: "Taal"
+      fr: "Langue"
+      de: "Sprache"
+
+  # Page elements
+  page:
+    table_of_contents:
+      en: "Table of Contents"
+      nl: "Inhoudsopgave"
+      fr: "Table des matières"
+      de: "Inhaltsverzeichnis"
+    
+    last_updated:
+      en: "Last updated"
+      nl: "Laatst bijgewerkt"
+      fr: "Dernière mise à jour"
+      de: "Zuletzt aktualisiert"
+    
+    related_pages:
+      en: "Related Pages"
+      nl: "Gerelateerde pagina's"
+      fr: "Pages connexes"
+      de: "Verwandte Seiten"
+
+  # Status messages
+  status:
+    translation_pending:
+      en: "Translation pending"
+      nl: "Vertaling in afwachting"
+      fr: "Traduction en attente"
+      de: "Übersetzung ausstehend"
+    
+    needs_review:
+      en: "Needs review"
+      nl: "Moet worden beoordeeld"
+      fr: "Nécessite une révision"
+      de: "Muss überprüft werden"
+
+  # Support
+  support:
+    need_help:
+      en: "Need help?"
+      nl: "Hulp nodig?"
+      fr: "Besoin d'aide?"
+      de: "Brauchen Sie Hilfe?"
+    
+    contact_support:
+      en: "Contact Support"
+      nl: "Contacteer ondersteuning"
+      fr: "Contacter le support"
+      de: "Support kontaktieren"

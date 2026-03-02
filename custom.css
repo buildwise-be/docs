@@ -1,0 +1,18 @@
+/* Disable the RMIZ zoom UI + click capture inside partner logo links */
+.partnerLogoLink [data-rmiz],
+.partnerLogoLink [data-rmiz-content],
+.partnerLogoLink [data-rmiz-ghost],
+.partnerLogoLink [data-rmiz-btn-zoom] {
+  pointer-events: none !important;
+}
+
+/* Remove underline/orange decoration for these links */
+.partnerLogoLink {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+.partnerLogoLink * {
+  text-decoration: none !important;
+}

@@ -1,0 +1,111 @@
+# Construction terminology translations
+terms:
+  - id: boq
+    en: "Bill of Quantities"
+    nl: "Meetstaat"
+    fr: "Métré"
+    de: "Leistungsverzeichnis"
+    description:
+      en: "A document listing all materials, parts, and labor required for a construction project"
+      nl: "Een document met alle materialen, onderdelen en arbeid die nodig zijn voor een bouwproject"
+      fr: "Un document listant tous les matériaux, pièces et main-d'œuvre nécessaires pour un projet de construction"
+      de: "Ein Dokument, das alle Materialien, Teile und Arbeitskräfte für ein Bauprojekt auflistet"
+
+  - id: specs
+    en: "Specifications"
+    nl: "Bestekken"
+    fr: "Cahier des charges"
+    de: "Spezifikationen"
+    description:
+      en: "Detailed technical requirements and standards for construction work"
+      nl: "Gedetailleerde technische vereisten en normen voor bouwwerk"
+      fr: "Exigences techniques détaillées et normes pour les travaux de construction"
+      de: "Detaillierte technische Anforderungen und Standards für Bauarbeiten"
+
+  - id: bestek
+    en: "Specification"
+    nl: "Bestek"
+    fr: "Cahier des charges"
+    de: "Spezifikation"
+    description:
+      en: "Technical specification document for construction work"
+      nl: "Technisch specificatiedocument voor bouwwerk"
+      fr: "Document de spécification technique pour les travaux de construction"
+      de: "Technisches Spezifikationsdokument für Bauarbeiten"
+
+  - id: meetstaat
+    en: "Bill of Quantities"
+    nl: "Meetstaat"
+    fr: "Métré"
+    de: "Leistungsverzeichnis"
+    description:
+      en: "Detailed list of quantities and measurements for construction work"
+      nl: "Gedetailleerde lijst van hoeveelheden en metingen voor bouwwerk"
+      fr: "Liste détaillée des quantités et mesures pour les travaux de construction"
+      de: "Detaillierte Liste der Mengen und Messungen für Bauarbeiten"
+
+  - id: contractor
+    en: "Contractor"
+    nl: "Aannemer"
+    fr: "Entrepreneur"
+    de: "Auftragnehmer"
+    description:
+      en: "A company or person that undertakes construction work"
+      nl: "Een bedrijf of persoon die bouwwerk uitvoert"
+      fr: "Une entreprise ou une personne qui effectue des travaux de construction"
+      de: "Ein Unternehmen oder eine Person, die Bauarbeiten durchführt"
+
+  - id: nbn
+    en: "NBN Standards"
+    nl: "NBN-normen"
+    fr: "Normes NBN"
+    de: "NBN-Normen"
+    description:
+      en: "Belgian standards for construction and building materials"
+      nl: "Belgische normen voor bouw en bouwmaterialen"
+      fr: "Normes belges pour la construction et les matériaux de construction"
+      de: "Belgische Normen für Bauwesen und Baumaterialien"
+
+  - id: offer
+    en: "Offer"
+    nl: "Offerte"
+    fr: "Devis"
+    de: "Angebot"
+    description:
+      en: "A proposal or quotation for construction work"
+      nl: "Een voorstel of offerte voor bouwwerk"
+      fr: "Une proposition ou un devis pour des travaux de construction"
+      de: "Ein Vorschlag oder Angebot für Bauarbeiten"
+
+  - id: project_plan
+    en: "Project Plan"
+    nl: "Projectplan"
+    fr: "Plan de projet"
+    de: "Projektplan"
+    description:
+      en: "Detailed plan outlining the scope, timeline, and resources for a construction project"
+      nl: "Gedetailleerd plan met de reikwijdte, tijdlijn en middelen voor een bouwproject"
+      fr: "Plan détaillé décrivant la portée, le calendrier et les ressources d'un projet de construction"
+      de: "Detaillierter Plan, der den Umfang, den Zeitplan und die Ressourcen für ein Bauprojekt beschreibt"
+
+  - id: site_supervisor
+    en: "Site Supervisor"
+    nl: "Werfleider"
+    fr: "Chef de chantier"
+    de: "Baustellenleiter"
+    description:
+      en: "Person responsible for overseeing construction work on site"
+      nl: "Persoon verantwoordelijk voor het toezicht op bouwwerk op de werf"
+      fr: "Personne responsable de la supervision des travaux de construction sur le chantier"
+      de: "Person, die für die Überwachung der Bauarbeiten auf der Baustelle verantwortlich ist"
+
+  - id: quantity_takeoff
+    en: "Quantity Takeoff"
+    nl: "Hoeveelheidsopname"
+    fr: "Relevé de quantités"
+    de: "Mengenermittlung"
+    description:
+      en: "The process of measuring and calculating quantities from construction drawings and specifications"
+      nl: "Het proces van meten en berekenen van hoeveelheden uit bouwtekeningen en specificaties"
+      fr: "Le processus de mesure et de calcul des quantités à partir des dessins et spécifications de construction"
+      de: "Der Prozess der Messung und Berechnung von Mengen aus Bauzeichnungen und Spezifikationen"

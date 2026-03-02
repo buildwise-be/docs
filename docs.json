@@ -1,0 +1,170 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Tooli",
+  "description": "Tooli is the AI platform built for Belgian construction.",
+  "colors": {
+    "primary": "#E85D04",
+    "light": "#FF8C69",
+    "dark": "#B8441F"
+  },
+  "favicon": "/assets/icons/Tooli_Logomark_L.png",
+  "logo": {
+    "light": "/assets/Tooli_Logo_Pos_L.avif",
+    "dark": "/assets/Tooli_Logo_Neg_L.avif",
+    "href": "/"
+  },
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "Contact",
+      "href": "mailto:support@meetwonka.com"
+    }
+  },
+  "navigation": {
+    "global": {
+      "anchors": [
+      ]
+    },
+    "languages": [
+      {
+        "language": "nl",
+        "default": true,
+        "groups": [
+          {
+            "group": "Welkom bij Tooli",
+            "pages": [
+              "nl/welcome/quick-start-guide",
+              "nl/welcome/what-is-tooli"
+            ]
+          },
+          {
+            "group": "Ondersteuning",
+            "pages": [
+              "nl/support/tooli-ai-and-data",
+              "nl/support/access-and-logging-in",
+              "nl/support/membership",
+              "nl/support/agents-in-tooli",
+              "nl/support/technical-problems",
+              "nl/support/mobile-and-device-support"
+            ]
+          },
+          {
+            "group": "Juridisch",
+            "pages": [
+              "nl/legal/terms-of-service",
+              "nl/legal/privacy-policy",
+              "nl/legal/legal-notice",
+              "nl/legal/cookie-policy"
+            ]
+          }
+        ]
+      },
+      {
+        "language": "fr",
+        "groups": [
+          {
+            "group": "Bienvenue sur Tooli",
+            "pages": [
+              "fr/welcome/quick-start-guide",
+              "fr/welcome/what-is-tooli"
+            ]
+          },
+          {
+            "group": "Support",
+            "pages": [
+              "fr/support/tooli-ai-and-data",
+              "fr/support/access-and-logging-in",
+              "fr/support/membership",
+              "fr/support/agents-in-tooli",
+              "fr/support/technical-problems",
+              "fr/support/mobile-and-device-support"
+            ]
+          },
+          {
+            "group": "Mentions légales",
+            "pages": [
+              "fr/legal/terms-of-service",
+              "fr/legal/privacy-policy",
+              "fr/legal/legal-notice",
+              "fr/legal/cookie-policy"
+            ]
+          }
+        ]
+      },
+      {
+        "language": "de",
+        "groups": [
+          {
+            "group": "Willkommen bei Tooli",
+            "pages": [
+              "de/welcome/quick-start-guide",
+              "de/welcome/what-is-tooli"
+            ]
+          },
+          {
+            "group": "Unterstützung",
+            "pages": [
+              "de/support/tooli-ai-and-data",
+              "de/support/access-and-logging-in",
+              "de/support/membership",
+              "de/support/agents-in-tooli",
+              "de/support/technical-problems",
+              "de/support/mobile-and-device-support"
+            ]
+          },
+          {
+            "group": "Rechtliches",
+            "pages": [
+              "de/legal/terms-of-service",
+              "de/legal/privacy-policy",
+              "de/legal/legal-notice",
+              "de/legal/cookie-policy"
+            ]
+          }
+        ]
+      },
+      {
+        "language": "en",
+        "groups": [
+          {
+            "group": "Welcome to Tooli",
+            "pages": [
+              "en/welcome/quick-start-guide",
+              "en/welcome/what-is-tooli"
+            ]
+          },
+          {
+            "group": "Support",
+            "pages": [
+              "en/support/tooli-ai-and-data",
+              "en/support/access-and-logging-in",
+              "en/support/membership",
+              "en/support/agents-in-tooli",
+              "en/support/technical-problems",
+              "en/support/mobile-and-device-support"
+            ]
+          },
+          {
+            "group": "Legal",
+            "pages": [
+              "en/legal/terms-of-service",
+              "en/legal/privacy-policy",
+              "en/legal/legal-notice",
+              "en/legal/cookie-policy"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+  },  
+  "search": {
+    "prompt": "Search..."
+  },
+  "css": "/custom.css",
+  "redirects": [
+    { "source": "/", "destination": "/nl/welcome/quick-start-guide" }
+  ]
+}
