@@ -79,19 +79,6 @@ You can learn more about this in [Tooli, AI and Data](/en/support/tooli-ai-and-d
 </CardGroup>
 
 ---
-*To DEVs: Visual of this table is being designed by Buildwise internally
-## Comparison of AI tools for construction companies
-
-| Aspect | Tooli | ChatGPT Free | Microsoft 365 Copilot | Copilot (Free) | ChatGPT Plus | ChatGPT Enterprise |
-|------|-------|--------------|-----------------------|----------------|--------------|--------------------|
-| **What is it?** | AI platform made for the Belgian construction sector. | Free general AI chatbot by OpenAI. | AI assistant inside Microsoft 365 apps. | Free AI chat and search tool by Microsoft. | Paid version of ChatGPT with better answers. | Business version of ChatGPT with extra security. |
-| **License & access** | Available via partners for construction companies. | Free personal account. | Paid business license (~€28/month). | Free personal Microsoft account. | Personal subscription (~€19/month). | Per-user business contract. |
-| **Data & training** | Your data is not used to train AI. EU-hosted. | Inputs may be used for training unless disabled. | Company data is not used for training. | User data may be used to improve the system. | Same as Free unless training is disabled. | Company data is never used for training. |
-| **Internal / confidential data** | Yes. Designed for safe professional use. | No. Not suitable for sensitive data. | Yes, within Microsoft 365 rules. | No. Outside company systems. | Limited. Still a public environment. | Yes. Built for confidential company data. |
-| **Construction knowledge (BE/EU)** | Focus on Belgian construction rules and language. | General knowledge, not sector-specific. | Uses your own company documents. | General search, no sector focus. | General knowledge with better reasoning. | Same knowledge as Plus, with safer use. |
-| **Conclusion for construction companies** | Suitable for daily technical and project work. | Good to explore AI, not for work data. | Useful for office tasks and collaboration. | Useful for quick searches only. | Useful for heavy personal use. | Suitable for large companies with strict rules. |
-
----
 ## Continue exploring
 
 <CardGroup cols={2}>
