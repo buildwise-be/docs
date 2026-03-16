@@ -45,9 +45,7 @@ Tooli is een AI-platform dat helpt bij het dagelijkse werk in de Belgische bouw.
 
 Je kunt Tooli gebruiken om vragen te stellen, documenten te begrijpen en technische informatie met betrekking tot je projecten te verduidelijken. Het is ontworpen om tijd te besparen en administratief werk te verminderen.
 
-<Note>
-**AI?**
-
+<Card title="AI" icon="brain-circuit">
 AI staat voor "kunstmatige intelligentie".
 Het is een nieuw type computersoftware dat vragen en informatie kan begrijpen en beantwoorden op een manier die we intelligent vinden (maar door een computerprogramma: Kunstmatig), en is de basis van tools zoals ChatGPT.
 
@@ -55,7 +53,7 @@ Het meest voorkomende gebruik van AI, in Tooli en ChatGPT, werkt via conversatie
 
 AI is zeer flexibel, maar heeft ook beperkingen. Het ondersteunt je werk, maar het vervangt geen professioneel oordeel of een expert.
 Je kunt hier meer over leren in [Tooli, AI en Data](/nl/support/tooli-ai-and-data).
-</Note>
+</Card>
 
 ---
 

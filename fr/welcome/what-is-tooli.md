@@ -45,9 +45,7 @@ Tooli est une plateforme IA qui aide au travail quotidien dans la construction b
 
 Vous pouvez utiliser Tooli pour poser des questions, comprendre des documents et clarifier des informations techniques liées à vos projets. Il est conçu pour gagner du temps et réduire le travail administratif.
 
-<Note>
-**IA?**
-
+<Card title="IA" icon="brain-circuit">
 IA signifie "intelligence artificielle".
 C'est un nouveau type de logiciel informatique qui peut comprendre et répondre aux questions et informations d'une manière que nous considérons comme intelligente (mais par un programme informatique : Artificiellement), et constitue la base d'outils comme ChatGPT.
 
@@ -55,7 +53,7 @@ L'utilisation la plus courante de l'IA, dans Tooli et ChatGPT, fonctionne par co
 
 L'IA est très flexible, mais a aussi des limites. Elle soutient votre travail, mais ne remplace pas le jugement professionnel ou un expert.
 Vous pouvez en apprendre davantage à ce sujet dans [Tooli, IA et Données](/fr/support/tooli-ai-and-data).
-</Note>
+</Card>
 
 ---
 

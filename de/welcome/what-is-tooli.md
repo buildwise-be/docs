@@ -45,9 +45,7 @@ Tooli ist eine KI-Plattform, die bei der täglichen Arbeit im belgischen Bauwese
 
 Sie können Tooli verwenden, um Fragen zu stellen, Dokumente zu verstehen und technische Informationen zu Ihren Projekten zu klären. Es ist darauf ausgelegt, Zeit zu sparen und administrative Arbeit zu reduzieren.
 
-<Note>
-**KI?**
-
+<Card title="KI" icon="brain-circuit">
 KI steht für "künstliche Intelligenz".
 Es ist eine neue Art von Computersoftware, die Fragen und Informationen auf eine Weise verstehen und beantworten kann, die wir als intelligent empfinden (aber durch ein Computerprogramm: Künstlich), und ist die Grundlage von Tools wie ChatGPT.
 
@@ -55,7 +53,7 @@ Die häufigste Verwendung von KI, in Tooli und ChatGPT, funktioniert durch Konve
 
 KI ist sehr flexibel, hat aber auch Grenzen. Sie unterstützt Ihre Arbeit, ersetzt aber kein professionelles Urteil oder einen Experten.
 Sie können mehr darüber erfahren unter [Tooli, KI und Daten](/de/support/tooli-ai-and-data).
-</Note>
+</Card>
 
 ---
 
