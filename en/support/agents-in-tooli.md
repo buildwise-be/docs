@@ -6,9 +6,9 @@ locale: "en"
 
 # === Content Metadata ===
 title: "Agents in Tooli"
-description: "Overview of Tooli's specialised AI agents: General Agent, Offer Coach, Tender Checker, and Report Writer."
+description: "Overview of Tooli's specialised AI agents"
 seo_title: "Agents in Tooli | Tooli Support"
-seo_description: "Discover Tooli's AI agents for construction: get answers, review offers, check tenders, and write reports."
+seo_description: "Discover Tooli's specialised AI agents for construction."
 
 # === Navigation ===
 section: "support"

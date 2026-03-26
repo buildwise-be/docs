@@ -6,9 +6,9 @@ locale: "fr"
 
 # === Content Metadata ===
 title: "Agents dans Tooli"
-description: "Aperçu des agents IA spécialisés de Tooli : Assistant Général, Coach d'offre, Analyseur d'appel d'offres et Générateur de comptes-rendus"
+description: "Aperçu des agents IA spécialisés de Tooli"
 seo_title: "Agents dans Tooli | Support Tooli"
-seo_description: "Découvrez les agents IA de Tooli pour la construction : obtenir des réponses, vérifier des offres de prix, analyser des appels d'offres et rédiger des comptes-rendus"
+seo_description: "Découvrez les agents IA spécialisés de Tooli pour la construction."
 
 # === Navigation ===
 section: "support"

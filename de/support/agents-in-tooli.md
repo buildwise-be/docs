@@ -6,9 +6,9 @@ locale: "de"
 
 # === Content Metadata ===
 title: "Agents in Tooli"
-description: "Überblick über Toolis spezialisierte KI-Agents: Allgemeiner Agent, Angebotscoach, Prüfer für Ausschreibungsunterlagen und Protokollführer."
+description: "Überblick über Toolis spezialisierte KI-Agents"
 seo_title: "Agents in Tooli | Tooli Unterstützung"
-seo_description: "Entdecken Sie Toolis KI-Agents für das Bauwesen: Antworten erhalten, Angebote prüfen, Ausschreibungen analysieren und Berichte verfassen."
+seo_description: "Entdecken Sie Toolis spezialisierte KI-Agents für das Bauwesen."
 
 # === Navigation ===
 section: "support"
