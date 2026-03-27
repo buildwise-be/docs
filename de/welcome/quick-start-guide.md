@@ -113,7 +113,7 @@ next_page: "what-is-tooli"
     Es gibt 2 Optionen, um ein Konto zu erstellen:
 
     <Frame caption="Registrieren Sie sich mit E-Mail und Passwort ('Aanmelden'), oder melden Sie sich über Buildwise an">
-      ![Tooli Registrierungsbildschirm](/assets/onboarding/de/tooli_homescreen_registration.png)
+      ![Tooli Registrierungsbildschirm](/assets/onboarding/de/tooli_homescreen_registration.jpg)
     </Frame>
 
     <AccordionGroup>
