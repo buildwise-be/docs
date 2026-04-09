@@ -1,4 +1,4 @@
-const firePageLoad = (url = null) => {
+const firePageLoad = () => {
     // GTM page_loaded event
     const gtml_page_loaded = {
         event: 'page_loaded',
@@ -7,7 +7,7 @@ const firePageLoad = (url = null) => {
             user_id: ''    // internal user identifier
         },
         page: {
-            location: url ?? document.location.href.toLowerCase(),
+            location: document.location.href.toLowerCase(),
             title: document.title.toLowerCase(),
             referrer: document.referrer.toLowerCase()
         }
@@ -22,6 +22,8 @@ const firePageLoad = (url = null) => {
 
 firePageLoad();
 
-navigation.addEventListener('navigate', (event) => {
-    firePageLoad(event.destination.url);
+navigation.addEventListener('navigate', async (event) => {
+    await event.finished;
+
+    firePageLoad();
 });
