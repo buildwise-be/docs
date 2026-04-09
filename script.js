@@ -1,4 +1,4 @@
-const firePageLoad = () => {
+const firePageLoad = (url = null) => {
     // GTM page_loaded event
     const gtml_page_loaded = {
         event: 'page_loaded',
@@ -7,23 +7,21 @@ const firePageLoad = () => {
             user_id: ''    // internal user identifier
         },
         page: {
-            location: document.location.href.toLowerCase(),
+            location: url ?? document.location.href.toLowerCase(),
             title: document.title.toLowerCase(),
             referrer: document.referrer.toLowerCase()
         }
     }
 
-    console.log("page loaded", gtml_page_loaded);
+    // console.log("page loaded", gtml_page_loaded);
 
-    // window.dataLayer = window.dataLayer || [];
-    // window.dataLayer.push(gtml_page_loaded);
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push(gtml_page_loaded);
 }
 
 
 firePageLoad();
 
 navigation.addEventListener('navigate', (event) => {
-      event.finished.then(() => {
-        firePageLoad();
-    });
+    firePageLoad(event.destination.url);
 });
