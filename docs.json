@@ -162,5 +162,10 @@
   "css": "/custom.css",
   "redirects": [
     { "source": "/", "destination": "/nl/welcome/quick-start-guide" }
-  ]
+  ],
+    "integrations": {
+    "gtm": {
+      "tagId": "GTM-KPKCX8J6"
+    }
+  }
 }
