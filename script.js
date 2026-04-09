@@ -1,4 +1,6 @@
+console.log("page loaded");
 document.addEventListener('DOMContentLoaded', () => {
+    
     // GTM page_loaded event
     window.dataLayer = window.dataLayer || [];
     window.dataLayer.push({
