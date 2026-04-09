@@ -23,5 +23,7 @@ const firePageLoad = () => {
 firePageLoad();
 
 navigation.addEventListener('navigate', (event) => {
-  firePageLoad();
+      event.finished.then(() => {
+        firePageLoad();
+    });
 });
