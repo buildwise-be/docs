@@ -47,6 +47,27 @@ next_page: "agents-in-tooli"
     Siehe: [Zugang & Anmeldung](/de/support/access-and-logging-in)
   </Accordion>
 
+  <Accordion title="Ich bin Buildwise-Mitglied, sehe aber trotzdem diese Meldung">
+    <Frame caption="Beispiel der Meldung für Buildwise-Zugang">
+      ![Meldung für Buildwise-Zugang](/assets/support/de/login_for_bw_access.jpg)
+    </Frame>
+
+    Wenn Sie diese Meldung sehen, wird Ihr Konto noch nicht für den Buildwise-Zugang erkannt.
+
+    **Mögliche Ursachen**
+
+    1. Unbekannte E-Mail-Adresse  
+       Stellen Sie sicher, dass Sie die E-Mail-Adresse verwenden, die bei Buildwise bekannt ist.
+
+    2. Noch nicht aktiviert  
+       Sie sind Mitglied, aber Ihr Buildwise-Konto wurde noch nicht aktiviert.  
+       Stellen Sie sicher, dass Ihre Mitgliedschaft noch aktiv ist, und versuchen Sie, sich direkt auf der [Buildwise-Website](https://www.buildwise.be/de/) anzumelden.  
+       Wenn das nicht funktioniert, registrieren Sie sich, indem Sie [diese Schritte](https://www.buildwise.be/nl/help-center/faq/hoe-maak-ik-een-buildwise-account-aan/) befolgen.
+
+    3. Keine aktive Mitgliedschaft  
+       Sind Sie kein aktives Buildwise-Mitglied? Dann können Sie ein [Abonnement](https://www.buildwise.be/nl/bijdragen-en-abonnementen/abonnementen/) abschließen.
+  </Accordion>
+
   <Accordion title='Warum sehe ich verschiedene Badges und Banner erscheinen, wie "Mit Infos von ..."?'>
     Diese Badges und Banner zeigen an, welche Organisation oder Quelle die Informationen bereitgestellt hat. Sie erscheinen basierend auf Ihrer Mitgliedschaft und welchen Datenquellen für die Antwort verwendet werden.
 

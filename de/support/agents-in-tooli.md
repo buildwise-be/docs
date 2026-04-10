@@ -72,4 +72,23 @@ next_page: "technical-problems"
 
     Weitere Informationen zu Nexo [hier](https://www.buildwise.be/nl/help-center/faq/hoe-werkt-nexo/).
   </Accordion>
+
+  <Accordion
+    title={
+      <span style={{ display: "inline-flex", alignItems: "center", gap: 8 }}>
+        <img
+          src="/assets/support/en/Logo%20Emma_icon.png"
+          alt=""
+          width={16}
+          height={16}
+          style={{ display: "block" }}
+        />
+        Was ist EMMA?
+      </span>
+    }
+  >
+    EMMA ist der digitale Assistent von Embuild für rechtliche, soziale, steuerliche und gewerkspezifische Fragen im Bausektor. EMMA liefert Antworten mit Quellenangaben, ruft Dokumente aus der Embuild-Wissensdatenbank ab und leitet komplexe Fragen an den richtigen Experten weiter. EMMA ist ausschließlich für Embuild-Mitglieder verfügbar.
+
+    Mehr Infos zu EMMA [hier](https://embuild.be/nl/ai).
+  </Accordion>
 </AccordionGroup>
