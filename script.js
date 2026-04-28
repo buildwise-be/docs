@@ -46,6 +46,7 @@ window.fetch = async function (...args) {
                     console.log("gtm object", gtmObject);
                 }
                 else if (event.event === "docs.content.view") {
+                    console.log(event);
                     let currentUrl = event.properties["$current_url"];
                     let title = event.properties.title;
                     let referrer = event.referrer;
