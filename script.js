@@ -35,7 +35,6 @@ window.fetch = async function (...args) {
                 //Catching search result clicked events
                 if (event.event === "docs.search.result_click") {
                     //of //if (event.event === "search_result_click") { ? => TE BEKIJKEN WAT VERSCHIL IS TUSSEN DEZE 2 EVENTS IN MINTLIFY
-                    console.log("Search result clicked:", event);
 
                     let searchId = event.properties.searchId;
 
