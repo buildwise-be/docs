@@ -21,7 +21,7 @@ window.fetch = async function (...args) {
             const events = JSON.parse(bodyText);
 
             events.events.forEach(event => {
-                if (event.event === "docs.search.result_click") {
+                if (event.event === "search_result_click") {
                     console.log("Search result clicked:", event);
 
                     const gtmObject = {
