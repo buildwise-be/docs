@@ -13,10 +13,10 @@ const firePageLoad = () => {
         }
     }
 
-    // console.log("page loaded", gtml_page_loaded);
+    console.log("page loaded", gtml_page_loaded);
 
-    window.dataLayer = window.dataLayer || [];
-    window.dataLayer.push(gtml_page_loaded);
+    // window.dataLayer = window.dataLayer || [];
+    // window.dataLayer.push(gtml_page_loaded);
 }
 
 
