@@ -60,7 +60,7 @@ window.fetch = async function (...args) {
                         }
                     };
 
-                    console.log("gtm object", gtm_search_completed_event);
+                    // console.log("gtm object", gtm_search_completed_event);
                     window.dataLayer.push(gtm_search_completed_event);
                 }
                 // Catching content viewed events, to trigger a page_loaded event in GTM
@@ -81,7 +81,7 @@ window.fetch = async function (...args) {
                             referrer: referrer.toLowerCase()
                         }
                     }
-                    console.log("gtm object", gtml_page_loaded);
+                    // console.log("gtm object", gtml_page_loaded);
                     window.dataLayer.push(gtml_page_loaded);
                 }
             });
