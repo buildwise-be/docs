@@ -17,7 +17,7 @@ order: 2
 # === Translation Management ===
 source_language: "en"
 translation_status: "source"
-last_updated: "2025-11-21"
+last_updated: "2026-05-01"
 source_version: "1.0"
 translator: ""
 
@@ -27,19 +27,23 @@ prev_page: "terms-of-service"
 next_page: "legal-notice"
 ---
 
-**Last updated: 21/11/2025**
+**Last updated: 01 mei 2026**
 
 ## About this Policy
 
-This Privacy Policy (the "Policy") describes how we (as defined below) collect, share and use any information which, used alone or in combination with other information, relates to you ("Personal Data") when you ("you" and "your", "User") create an account to access the intelligent legal platform ("Tooli") made available to you on the website www.tooli.be. The Policy also applies to the management of account access rights, the collection of aggregated data for statistical or monitoring purposes, and the communication of information relating to the activities and operation of Tooli.
-
-For Personal Data that we collect outside of Tooli, please refer to our Privacy Policy relating to the protection of personal data available at the following link: www.tooli.be
+This Privacy Policy (the "Policy") describes how we (as defined below) collect, share and use any information which, used alone or in combination with other information, relates to you ("Personal Data") when you ("you" and "your", "User") create an account and access the intelligent assistant ("Tooli") made available to you on the website www.tooli.be.
 
 Please take the time to read this Policy carefully. If you have any questions or comments, please contact our data protection officer at the following address: gdpr@Buildwise.be .
 
-For the purposes of this Policy, Buildwise, which has its registered office at Kleine Kloosterstraat 23, 1932 Zaventem, registered with Banque-Carrefour des Entreprises de Belgique (Belgian Crossroads Bank for Enterprises) under number 0407.695.057, ("Buildwise", "we", "our") acts as Data Controller for the Personal Data collected in order to provide its service, Tooli.
+For the purposes of this Policy, Buildwise, which has its registered office at Kleine Kloosterstraat 23, 1932 Zaventem, registered with Banque-Carrefour des Entreprises de Belgique (Belgian Crossroads Bank for Enterprises) under number 0407.695.057, ("Buildwise", "we", "our") operates Tooli together with its partner organisations (Embuild, Bouwunie and Constructiv, the "Partners").
 
-Conversely, the User acts as Data Controller within the meaning of the applicable Data Protection Law, in respect of the use of Tooli and all data which they integrate into it. In this context, Buildwise acts as Sub-processor.
+Depending on the nature of the User's query and the User's access rights, Tooli can activate a Partner’s Module and automatically routes the request to the most relevant module. When a partner module is used, the User's query is processed by the relevant Partner module within the Tooli environment, and the response is displayed transparently as coming from that module.
+
+Buildwise and the Partners jointly determine the purposes and means of the processing of Personal Data carried out through Tooli and therefore act as Joint Controllers within the meaning of article 26 GDPR. Their respective roles are set out in a joint controllership arrangement. Buildwise acts as the single point of contact for data subjects (gdpr@buildwise.be), but Data subjects may exercise their GDPR rights against any joint controller.
+
+All processing is governed by the Tooli Promise. The Tooli Promise is a set of commitments made by Buildwise and the Partners regarding how User data is handled within Tooli, including data protection, security and the ethical use of AI. It notably provides that User data is secured, not used to train AI models nor shared with third parties.
+
+In addition, the User acts as Data Controller for the content the User enters into Tooli (prompts, documents, questions and any other input), and Buildwise acts as Processor under article 28 GDPR for such content, in accordance with the data processing agreement between the User and Buildwise.
 
 This Policy sets out Buildwise's commitments regarding data protection and the measures implemented to ensure the security and confidentiality of your personal data. It also specifies the rights you have in this regard and the practical procedures for exercising them with us.
 
@@ -52,9 +56,10 @@ The types of Personal Data that we collect, and the reasons why we process them 
 | Creation and management of the user account | Name, first name, professional email address, password, organisation/profession | Performance of the contract |
 | Secure access and maintenance of Tooli | Technical and connection data (logs, identifiers) | Legitimate interest (security and operation) |
 | Improvement of experience and platform development | Aggregated usage data, interactions, usage statistics | Legitimate interest |
-| Statistical analyses and growth measurement | Aggregated monitoring and internet connection data | Consent |
+| Statistical analyses and growth measurement | Aggregated monitoring and internet connection data | Legitimate interest |
 | Response to requests or assistance | Last name, first name, email, message content | Legitimate interest (user support) |
 | Communication of information or news | Last name, first name, work email | Consent, legitimate interest |
+| Provision of partner AI modules within Tooli | User queries and responses generated by the partner module; metadata relating to use of the module | Performance of the contract; legitimate interest |
 
 If we were to request other Personal Data not mentioned above, we would clearly indicate to you, at the time of collection, the nature of the information requested and the reasons for such request.
 
@@ -62,7 +67,7 @@ Some Personal Data may also be obtained indirectly, for example when a User asso
 
 Furthermore, we may automatically collect certain technical information relating to your device. This may include your IP address, the type of device used, unique identifiers, browser type, approximate location (country or city) as well as other technical data. We may also collect information relating to your interaction with Tooli, such as pages viewed or links selected. This data helps us to better understand the profile of Tooli Users, where they come from and the content that is of interest to them. It is used for internal analysis purposes and to improve the relevance and overall experience of Tooli.
 
-Some of this information may be collected by means of cookies or similar technologies, in accordance with our Cookie Notice available at www.tooli.be.
+Some of this information may be collected by means of cookies or similar technologies, in accordance with our Cookie Notice available at https://help.tooli.be/en/legal/cookie-policy.
 
 Generally speaking, the Personal Data collected is used only for the purposes described in this Policy or those brought to your attention at the time of collection. We may however process it for other purposes, provided that they are compatible with the purposes initially communicated and authorised by the applicable Data Protection Law.
 
@@ -70,7 +75,7 @@ Generally speaking, the Personal Data collected is used only for the purposes de
 
 We may forward your Personal Data to the following categories of recipients:
 
-Technical service providers and sub-processors: developers, hosting providers, providers of analysis or support tools, acting under strict instructions from Buildwise. We require these sub-processors to process Personal Data and act strictly in accordance with our instructions and to take appropriate measures to ensure that Personal Data remains protected.
+Technical service providers and processors: developers, hosting providers, providers of analysis or support tools, acting under strict instructions from Buildwise. We require these processors to process Personal Data and act strictly in accordance with our instructions and to take appropriate measures to ensure that Personal Data remains protected.
 
 Authorities or public bodies: to any competent law enforcement body, regulator, government agency, court, or other third party, where we believe that disclosure is necessary pursuant to applicable laws or regulations, or in order to establish or defend our rights, or in order to protect your vital interests or those of any other person.
 
@@ -104,7 +109,7 @@ Encryption of data in transit and at rest:
 All communications are protected by HTTPS/TLS (TLS 1.3, with support for TLS 1.2 if necessary). Data is encrypted at rest.
 
 Strict environment isolation (tenant isolation):
-Each organization's data (conversations, configurations, user accounts, audit logs, MCP connections) is logically isolated and protected against any inter-tenant access.
+Each organization’s data (conversations, configurations, user accounts, audit logs, MCP connections) is logically isolated and protected against any inter-tenant access.
 
 Secure management of credentials and secrets:
 Passwords are hashed (bcrypt), access tokens (JWT) are cryptographically signed, and sensitive keys/APIs are never stored in clear text. Detection and automatic redaction mechanisms prevent sensitive data from being logged.
@@ -175,6 +180,14 @@ Email: contact@apd-gba.be
 
 Website: www.autoriteprotectiondonnees.be
 
+Data subjects may exercise their GDPR rights against any joint controller:
+
+gdpr@Buildwise.be.
+
+privacy@embuild.be
+
+privacy@constructiv.be
+
 We respond to all requests that we receive from individuals wishing to exercise their rights relating to the protection of their Personal Data in accordance with the applicable Data Protection Laws.
 
 ## Updates to this Policy
@@ -186,5 +199,3 @@ The date of the last update appears at the top of this Policy and allows you to 
 ## Contact
 
 If you have any questions regarding the processing of your Personal Data or if you wish to exercise your rights, please contact us by email at the address gdpr@Buildwise.be.
-
-This version of the Policy comes into force and was updated on 21 November 2025.
