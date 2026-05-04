@@ -24,7 +24,7 @@ translator: ""
 # === Page Settings ===
 toc: true
 prev_page: "legal-notice"
-next_page: ""
+next_page: "data-processing-agreement"
 ---
 
 **Laatste update: 21/11/2025**

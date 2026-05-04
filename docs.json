@@ -51,7 +51,8 @@
               "nl/legal/terms-of-service",
               "nl/legal/privacy-policy",
               "nl/legal/legal-notice",
-              "nl/legal/cookie-policy"
+              "nl/legal/cookie-policy",
+              "nl/legal/data-processing-agreement"
             ]
           }
         ]
@@ -83,7 +84,8 @@
               "fr/legal/terms-of-service",
               "fr/legal/privacy-policy",
               "fr/legal/legal-notice",
-              "fr/legal/cookie-policy"
+              "fr/legal/cookie-policy",
+              "fr/legal/data-processing-agreement"
             ]
           }
         ]
@@ -115,7 +117,8 @@
               "de/legal/terms-of-service",
               "de/legal/privacy-policy",
               "de/legal/legal-notice",
-              "de/legal/cookie-policy"
+              "de/legal/cookie-policy",
+              "de/legal/data-processing-agreement"
             ]
           }
         ]
@@ -147,7 +150,8 @@
               "en/legal/terms-of-service",
               "en/legal/privacy-policy",
               "en/legal/legal-notice",
-              "en/legal/cookie-policy"
+              "en/legal/cookie-policy",
+              "en/legal/data-processing-agreement"
             ]
           }
         ]
