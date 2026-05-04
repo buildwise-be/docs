@@ -27,7 +27,7 @@ prev_page: "terms-of-service"
 next_page: "legal-notice"
 ---
 
-**Last updated: 01 mei 2026**
+**Last updated: 01/05/2026**
 
 ## About this Policy
 

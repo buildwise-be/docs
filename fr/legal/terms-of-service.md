@@ -18,7 +18,7 @@ order: 1
 # === Translation Management ===
 source_language: "en"
 translation_status: "translated"
-last_updated: "2025-11-21"
+last_updated: "2026-05-01"
 source_version: "1.0"
 translator: ""
 
@@ -28,11 +28,11 @@ prev_page: ""
 next_page: "privacy-policy"
 ---
 
-**Dernière mise à jour : 21/11/2025**
+**Dernière mise à jour : 01/05/2026**
 
 ## 1. Préambule et champ d'application
 
-Tooli est un outil d'intelligence artificielle conversationnelle développé pour Buildwise et mis à disposition de Buildwise, Partenaires, ses membres et collaborateurs.
+Tooli est un outil d'IA conversationnelle conjoint développé par Buildwise et ses Partenaires, et mis à disposition de Buildwise, Partenaires, ses membres et collaborateurs.
 
 La plateforme a pour objectif de favoriser l'innovation, la recherche et la digitalisation dans le secteur de la construction en Belgique. Elle permet aux Utilisateurs d'accéder à un environnement de discussion automatisé, destiné à faciliter la recherche d'informations techniques et administratives.
 
@@ -40,21 +40,27 @@ L'utilisation de Tooli implique l'acceptation pleine et entière des présentes 
 
 En accédant à Tooli, l'Utilisateur reconnaît avoir pris connaissance des présentes Conditions générales d'utilisation (ci-après, les CGU) et les accepter sans réserve. Les présentes CGU excluent toutes autres conditions générales et s'y substituent.
 
-Buildwise se réserve le droit de modifier les CGU à tout moment, sans notification préalable. Les modifications entreront en vigueur dès leur publication en ligne.
+Buildwise et ses Partenaires se réservent le droit de modifier les CGU à tout moment, sans notification préalable. Les modifications entreront en vigueur dès leur publication en ligne.
 
 D'éventuelles règles et lignes de conduite supplémentaires seront réputées faire partie intégrante des CGU. Il est donc conseillé à l'Utilisateur de se référer régulièrement à la dernière version des présentes conditions, accessibles en permanence dans le footer de Tooli.
 
 ## 2. Définitions
 
-Tooli : ou « Chatbot » : outil d'IA conversationnelle créé par Buildwise et proposé aux membres et partenaires de Buildwise, Embuild, Bouwunie et Constructiv. Il vise à soutenir l'innovation, la recherche et la digitalisation dans le secteur de la construction en Belgique, en offrant aux Utilisateurs un espace automatisé de dialogue pour faciliter l'accès à des informations techniques et administratives.;
+Tooli : ou « Chatbot » : Outil d'IA conversationnelle conjoint développé par Buildwise et ses Partenaires, mis à la disposition des membres et partenaires de Buildwise, d'Embuild, de Bouwunie et de Constructiv, en tant que point d'accès unique. Dans cet environnement, Tooli peut activer des modules d'IA partenaires en fonction des requêtes de l'Utilisateur et de ses droits d'accès. Il vise à soutenir l'innovation, la recherche et la digitalisation dans le secteur de la construction en Belgique.;
 
 Utilisateur : toute personne physique, qui consulte Tooli, ou qui fait usage des fonctionnalités, notamment en y téléchargeant des fichiers ;
 
 Buildwise : Administrateur de la plateforme, ayant son siège social au Kleine Kloosterstraat 23, 1932 Zaventem, inscrite à la Banque-Carrefour des Entreprises sous le numéro 0407.695.057, dûment représentée par Pieter Van Geite en qualité de Directeur IT ;
 
-Les Parties : Buildwise et l'Utilisateur sont ci-après dénommés « les Parties » ;
+Les Parties : Buildwise, Partenaires et l'Utilisateur sont ci-après dénommés « les Parties » ;
 
 Partenaires : Embuild, Bouwunie et Constructiv, bénéficiaires de la licence exclusive octroyée à Buildwise.
+
+Module d'IA Partenaire : tout outil ou service d'IA fourni par un Partenaire et pouvant être activé dans l'environnement Tooli dans le cadre du mode Tooli Promise, y compris EMMA (l'assistant juridique d'Embuild), le Constructiv Risk Analyser et NEXO (l'outil de documentation technique de Buildwise). Chaque module d'IA Partenaire est identifié à l'annexe 1 des présentes CG. Lorsqu'il est activé dans Tooli, un module d'IA Partenaire fonctionne exclusivement sous le mode Tooli Promise et les présentes CG, et non sous les propres conditions générales du Partenaire en tant qu'outil autonome. Les mêmes outils utilisés en dehors de l'environnement Tooli restent soumis à la documentation propre du Partenaire ;
+
+Tooli Promise : l'ensemble des 10 principes applicables à tout traitement effectué dans l'environnement Tooli, y compris lorsqu'un module d'IA partenaire est activé. Ces principes sont définis à l'annexe 2 des présentes CG. Le respect du Tooli Promise est garanti pour tous les modules d'IA activés dans Tooli ;
+
+Mode Tooli Promise : le régime de fonctionnement dans lequel un module d'IA Partenaire opère lorsqu'il est activé dans Tooli. En mode Tooli Promise, le module fonctionne conformément aux présentes CG et au Tooli Promise, et non selon les propres conditions générales du Partenaire applicables au même outil utilisé en dehors de Tooli. Le module peut fonctionner de manière plus limitée que lorsqu'il est utilisé directement, conformément aux contraintes imposées par le Tooli Promise.
 
 Les termes « responsable du traitement », « sous-traitant », « données à caractère personnel », « traitement », « personne concernée », ainsi que tout autre terme relatif à la protection des données, ont la signification qui leur est attribuée par le Règlement (UE) 2016/679 du 27 avril 2016 (RGPD).
 
@@ -62,27 +68,29 @@ Les termes « responsable du traitement », « sous-traitant », « données à 
 
 Tooli est accessible à Buildwise, Partenaires, ses membres, ou collaborateurs.
 
-Lors de la création d'un compte, l'Utilisateur s'engage à fournir des informations exactes et à jour. Buildwise se réserve le droit de suspendre ou de refuser tout accès en cas d'inexactitude ou de manquement.
+Lors de la création d'un compte, l'Utilisateur s'engage à fournir des informations exactes et à jour. Buildwise et Partenaires se réservent le droit de suspendre ou de refuser tout accès en cas d'inexactitude ou de manquement.
 
-Le cas échéant, l'Utilisateur s'engage à préserver la confidentialité de son identifiant et de son mot de passe et à ne pas les divulguer à des tiers. Il demeure seul responsable de toute utilisation de son compte, même à son insu. En cas de doute quant à la sécurité de son mot de passe, il lui appartient de procéder immédiatement à sa modification ou d'en informer sans délai Wonka AI bv, Luikersteenweg 165, 3500 Hasselt, Belgium, BE 0800.787.953 par écrit sur l'adresse email support@tooli.be.
+Le cas échéant, l'Utilisateur s'engage à préserver la confidentialité de son identifiant et de son mot de passe et à ne pas les divulguer à des tiers. Il demeure seul responsable de toute utilisation de son compte, même à son insu. En cas de doute quant à la sécurité de son mot de passe, il lui appartient de procéder immédiatement à sa modification ou d'en informer sans délai Wonka AI bv, Luikersteenweg 165, 3500 Hasselt, Belgium, BE 0800.787.953 par écrit sur l'adresse email support@meetwonka.be.
 
 L'identifiant et le mot de passe sont strictement personnels à l'Utilisateur. Il lui est interdit de partager son accès à Tooli avec des tiers..
 
 L'accès à Tooli peut être interrompu temporairement pour maintenance ou amélioration, sans préavis.
 
-Tooli est accessible depuis tout appareil disposant d'un système d'exploitation et d'un navigateur récents. Bien que la plateforme ait été conçue pour être compatible avec la majorité des environnements informatiques courants, Buildwise ne peut garantir un fonctionnement optimal sur l'ensemble des configurations possibles et ne saurait être tenue responsable en cas d'impossibilité totale ou partielle d'accès ou d'utilisation du service, quelle qu'en soit la cause.
+Tooli est accessible depuis tout appareil disposant d'un système d'exploitation et d'un navigateur récents. Bien que la plateforme ait été conçue pour être compatible avec la majorité des environnements informatiques courants, Buildwise et Partenaires ne peuvent garantir un fonctionnement optimal sur l'ensemble des configurations possibles et ne saurait être tenue responsable en cas d'impossibilité totale ou partielle d'accès ou d'utilisation du service, quelle qu'en soit la cause.
 
 L'Utilisateur est tenu de veiller à la protection de son matériel et de ses données en adoptant toutes les mesures de sécurité appropriées, telles que l'installation de logiciels antivirus, pare-feu et outils de protection contre les programmes malveillants.
 
-L'Utilisateur reconnaît que les fonctionnalités proposées via Tooli sont susceptibles d'évoluer. Certaines fonctionnalités pourront être modifiées, supprimées ou remplacées, sans que l'Utilisateur ne puisse invoquer un quelconque droit au maintien d'une fonctionnalité spécifique. Buildwise demeurera seul décisionnaire quant à l'opportunité d'ajouter, d'adapter ou de retirer toute fonctionnalité de la plateforme.
+L'Utilisateur reconnaît que les fonctionnalités proposées via Tooli sont susceptibles d'évoluer. Certaines fonctionnalités pourront être modifiées, supprimées ou remplacées, sans que l'Utilisateur ne puisse invoquer un quelconque droit au maintien d'une fonctionnalité spécifique. Buildwise et Partenaires demeureront seul décisionnaire quant à l'opportunité d'ajouter, d'adapter ou de retirer toute fonctionnalité de la plateforme.
 
-Buildwise se réserve également le droit, à tout moment et pour quelque raison que ce soit, de suspendre, modifier ou interrompre temporairement ou définitivement l'accès à tout ou partie de Tooli, sans obligation d'en informer préalablement les Utilisateurs. Cette faculté pourra notamment être exercée en cas de maintenance, de mise à jour ou d'évolution technique de la plateforme.
+Buildwise et Partenaires se réservent également le droit, à tout moment et pour quelque raison que ce soit, de suspendre, modifier ou interrompre temporairement ou définitivement l'accès à tout ou partie de Tooli, sans obligation d'en informer préalablement les Utilisateurs. Cette faculté pourra notamment être exercée en cas de maintenance, de mise à jour ou d'évolution technique de la plateforme.
 
-Buildwise pourra également suspendre ou restreindre l'accès d'un Utilisateur lorsqu'il existe des motifs légitimes de considérer que celui-ci a violé les présentes Conditions Générales ou toute disposition légale applicable.
+Buildwise et Partenaires pourront également suspendre ou restreindre l'accès d'un Utilisateur lorsqu'il existe des motifs légitimes de considérer que celui-ci a violé les présentes Conditions Générales ou toute disposition légale applicable.
 
 ## 4. Utilisation de Tooli
 
 L'Utilisateur s'engage à utiliser Tooli de manière conforme à la loi, aux présentes CGU et à la finalité de la plateforme.
+
+Sauf lorsque Tooli permet l'accès, via un outil ou un module spécifique, à des documents techniques, juridiques ou autres documents professionnels contenus dans une base de données ou une base de connaissances dédiée, l'Utilisateur reconnaît que les réponses générées par Tooli ne constituent pas un conseil juridique, technique ou professionnel. L'Utilisateur demeure seul responsable de la vérification de la pertinence des informations fournies, des décisions prises et de toute utilisation faite du contenu généré ou mis à disposition via Tooli.
 
 L'Utilisateur reconnaît que les réponses générées par Tooli ne constituent pas un conseil juridique, technique ou professionnel et qu'il reste responsable des décisions prises et du contenu généré.
 
@@ -102,6 +110,8 @@ L'Utilisateur obtient uniquement un droit d'accès et d'usage personnel de Tooli
 
 Toute utilisation commerciale de Tooli est strictement interdite. Par « utilisation commerciale », il convient d'entendre, sans que cette liste soit exhaustive, toute forme de vente, de location, de mise à disposition rémunérée ou d'exploitation des fonctionnalités ou contenus générés via Tooli.
 
+Cette interdiction n'empêche pas l'Utilisateur d'utiliser le Contenu Référencé via les modules d'IA du Partenaire dans le cadre normal de ses activités professionnelles, sous réserve du respect des présentes Conditions d'utilisation ainsi que des règles applicables audit contenu.
+
 Il est strictement interdit à l'Utilisateur, lequel ne peut en aucun cas en autoriser un tiers, de mettre Tooli ou l'une de ses fonctionnalités à disposition de tiers non autorisés, en tout ou en partie, à titre gratuit ou onéreux.
 
 Il est par ailleurs strictement interdit à l'Utilisateur, lequel ne peut en aucun cas en autoriser un tiers, de reproduire, copier, modifier, adapter, distribuer ou diffuser tout ou partie de la plateforme ou de son contenu, ainsi que de créer des œuvres dérivées basées, en tout ou en partie, sur les éléments accessibles via Tooli.
@@ -110,65 +120,83 @@ Il est tout autant interdit à l'Utilisateur, lequel ne peut en aucun cas en aut
 
 ## 6. Propriété intellectuelle
 
-Le concept, la mise en page, la structure, les codes sources, les éléments de programmation, les images, photographies, logos, dessins, marques, modèles, slogans, ainsi que l'ensemble des autres éléments composant Tooli (ci-après les « Éléments protégés ») sont et demeurent la propriété exclusive de leur titulaire légitime, notamment le développeur de la plateforme et/ou Buildwise, et sont protégés par les droits de propriété intellectuelle et/ou industrielle applicables (tels que le droit d'auteur, le droit des marques, le droit sui generis des bases de données, etc.). L'Utilisateur reconnaît et accepte expressément ces droits.
+Le concept, la mise en page, la structure, les codes sources, les éléments de programmation, les images, photographies, logos, dessins, marques, modèles, slogans, ainsi que l'ensemble des autres éléments composant Tooli (ci-après les « Éléments protégés ») sont et demeurent la propriété exclusive de leur titulaire légitime, notamment le développeur de la plateforme et/ou Buildwise/Partenaires, et sont protégés par les droits de propriété intellectuelle et/ou industrielle applicables (tels que le droit d'auteur, le droit des marques, le droit sui generis des bases de données, etc.). L'Utilisateur reconnaît et accepte expressément ces droits.
 
 En accédant à Tooli, en s'y inscrivant, en s'y connectant, en téléchargeant des contenus ou en utilisant la plateforme de quelque manière que ce soit, l'Utilisateur n'acquiert aucun droit de propriété ou de licence sur les Éléments protégés, autres que le droit d'usage limité prévu dans les présentes Conditions Générales. Le Développeur garantit que les éléments mis à disposition de l'Utilisateur via Tooli ne portent pas atteinte aux droits de tiers et ne présentent pas de caractère illicite.
 
 ## 7. Protection des données personnelles
 
-Buildwise attache une importance particulière au respect de la vie privée et à la protection des données à caractère personnel des Utilisateurs, conformément notamment au Règlement (UE) 2016/679 du 27 avril 2016 (« RGPD »).
+Buildwise et Partenaires attachent une importance particulière au respect de la vie privée et à la protection des données à caractère personnel des Utilisateurs, conformément notamment au Règlement (UE) 2016/679 du 27 avril 2016 (« RGPD »).
 
 À cet égard, l'Utilisateur est invité à consulter la Politique de Confidentialité de Tooli, disponible sur la plateforme ou via le site officiel, laquelle décrit en détail les modalités de traitement de ses données personnelles.
 
+Buildwise et ses Partenaires agissent en tant que responsables conjoints du traitement au sens de l'article 26 du RGPD pour les traitements effectués dans l'environnement Tooli, y compris les traitements liés à l'activation des modules d'IA des Partenaires.
+
+Buildwise agit comme point de contact principal pour les Utilisateurs souhaitant exercer leurs droits en matière de protection des données en lien avec tout traitement effectué dans Tooli, y compris ceux liés aux modules d'IA des Partenaires activés.
+
+Lorsqu'une demande concerne un traitement effectué par un Partenaire, Buildwise la transmet sans délai au Partenaire concerné. Pour les traitements effectués de manière indépendante par les Partenaires en dehors de l'environnement Tooli, les Utilisateurs sont invités à contacter directement le Partenaire conformément à sa propre politique de confidentialité.
+
 Les Utilisateurs disposent de droits d'accès, de rectification, d'opposition et d'effacement de leurs données, exerçables via : gdpr@buildwise.be
 
-## 8. Responsabilités
+## 8. Modules d'IA des Partenaires
 
-A. RESPONSABILITÉ DE BUILDWISE
+Dans l'environnement Tooli, Tooli peut activer des Modules d'IA de Partenaires pour le compte des Utilisateurs, en fonction de la nature de leurs requêtes et de leurs droits d'accès. Les Modules d'IA de Partenaires actuellement disponibles dans Tooli sont énumérés à l'Annexe 1 des présentes CGU. La liste des Modules d'IA de Partenaires disponibles peut être mise à jour de temps à autre conformément à la Section 13 des présentes CGU.
 
-Buildwise met Tooli à disposition selon une obligation de moyens. Aucune garantie de résultat n'est donnée et Buildwise ne pourra être tenu responsable des préjudices, directs ou indirects, résultant de l'accès, de l'utilisation ou de l'impossibilité d'utiliser la plateforme.
+En acceptant les présentes CGU, l'Utilisateur reconnaît expressément que le service Tooli peut activer des Modules d'IA de Partenaires et accepte les conditions applicables à une telle activation telles que définies dans les présentes CGU et à l'Annexe 1. Aucune acceptation supplémentaire de conditions générales n'est requise lors de chaque activation individuelle. L'acceptation initiale des présentes CGU par l'Utilisateur couvre l'ensemble des activations des Modules d'IA de Partenaires listés à l'Annexe 1.
 
-Buildwise déploie des efforts raisonnables pour garantir la disponibilité de Tooli à chaque instant, pour un nombre normal d'Utilisateurs, mais ne pourra être tenu pour responsable pour tout dommage direct ou indirect lié à une modification, suspension ou interruption de l'accès à Tooli, pour quelque cause que ce soit. Buildwise ne garantit ni la compatibilité technique de la plateforme avec le matériel de l'Utilisateur, ni l'accès continu ou ininterrompu aux contenus.
+Lorsqu'il est activé dans Tooli, chaque Module d'IA de Partenaire fonctionne en « Tooli Promise Mode » : il opère sous le régime des présentes CGU et du Tooli Promise, et non sous les conditions générales autonomes du Partenaire. En particulier, le Module d'IA de Partenaire peut fonctionner de manière plus limitée que lorsqu'il est utilisé directement en dehors de Tooli, conformément aux contraintes du Tooli Promise. Les mêmes Modules d'IA de Partenaires, lorsqu'ils sont utilisés directement en dehors de l'environnement Tooli, restent exclusivement soumis à la documentation propre du Partenaire.
 
-L'Utilisateur s'engage à tenir Buildwise indemne de toute réclamation ou dommage résultant notamment de pertes d'opportunités, de revenus ou d'exploitation liées à l'utilisation ou à l'indisponibilité de la plateforme ; de l'introduction de virus ou de codes malveillants sur Tooli ou son infrastructure ; d'une saturation temporaire de la bande passante ; d'une interruption de service internet indépendante de Buildwise.
+Buildwise veille au respect du Tooli Promise par tous les Partenaires dont les modules sont activés dans Tooli, au moyen d'accords bilatéraux conclus avec chaque Partenaire. Chaque Partenaire demeure responsable de la logique fonctionnelle, de la qualité du contenu et de la gouvernance de son propre module.
 
-L'Utilisateur reconnaît expressément les limites et risques inhérents à l'usage d'internet et des technologies en ligne ; les risques de perte, d'altération ou d'interception de données lors des transmissions électroniques ; que Buildwise ne peut être tenu responsable des conséquences découlant de ces risques ; que les journaux techniques et sauvegardes réalisés par Buildwise pourront servir de preuve en cas de litige.
+Un Partenaire peut, si nécessaire, ajouter des conditions spécifiques applicables à son module au moyen d'une fiche de module partenaire annexée à l'Annexe 1. Ces conditions spécifiques sont strictement limitées au format standardisé prévu à l'Annexe 1 et ne peuvent déroger au Tooli Promise ni imposer à l'Utilisateur des obligations supplémentaires substantielles au-delà de celles découlant des présentes CGU. Toute condition sortant de ce cadre nécessite une acceptation distincte et spécifique de l'Utilisateur et ne peut être intégrée à l'Annexe 1.
 
-Bien que Buildwise mette en œuvre tous les efforts raisonnables pour maintenir Tooli exempt de bugs, virus, chevaux de Troie ou autres programmes malveillants, l'absence totale de tels risques ne peut être garantie.
+## 9. Responsabilités
 
-En conséquence, Buildwise ne pourra en aucun cas être tenu responsable des dommages ou pertes qui pourraient en résulter, notamment en ce qui concerne les données de l'Utilisateur. Il appartient dès lors à ce dernier de mettre en place ses propres mesures de protection (pare-feu, antivirus, logiciels de sécurité, etc.) et de faire preuve de prudence lors de la communication d'informations personnelles.
+A. RESPONSABILITÉ DE BUILDWISE ET PARTENAIRES
 
-Par ailleurs, Buildwise décline toute responsabilité quant au contenu généré par Tooli. Aucune garantie n'est donnée quant à l'exactitude, l'exhaustivité ou l'actualisation des réponses fournies par l'outil. L'Utilisateur demeure seul responsable des décisions, actions ou abstentions prises sur la base des informations obtenues, et Buildwise ne saurait être tenu pour responsable des conséquences, directes ou indirectes, qui pourraient en découler.
+Buildwise et Partenaires mettent Tooli à disposition selon une obligation de moyens. Aucune garantie de résultat n'est donnée et Buildwise ne pourra être tenu responsable des préjudices, directs ou indirects, résultant de l'accès, de l'utilisation ou de l'impossibilité d'utiliser la plateforme.
+
+Buildwise et Partenaires déploient des efforts raisonnables pour garantir la disponibilité de Tooli à chaque instant, pour un nombre normal d'Utilisateurs, mais ne pourra être tenu pour responsable pour tout dommage direct ou indirect lié à une modification, suspension ou interruption de l'accès à Tooli, pour quelque cause que ce soit. Buildwise et Partenaires ne garantissent ni la compatibilité technique de la plateforme avec le matériel de l'Utilisateur, ni l'accès continu ou ininterrompu aux contenus.
+
+L'Utilisateur s'engage à tenir Buildwise et Partenaires indemne de toute réclamation ou dommage résultant notamment de pertes d'opportunités, de revenus ou d'exploitation liées à l'utilisation ou à l'indisponibilité de la plateforme ; de l'introduction de virus ou de codes malveillants sur Tooli ou son infrastructure ; d'une saturation temporaire de la bande passante ; d'une interruption de service internet indépendante de Buildwise et Partenaires.
+
+L'Utilisateur reconnaît expressément les limites et risques inhérents à l'usage d'internet et des technologies en ligne ; les risques de perte, d'altération ou d'interception de données lors des transmissions électroniques ; que Buildwise et Partenaires ne peuvent être tenu responsable des conséquences découlant de ces risques ; que les journaux techniques et sauvegardes réalisés par Buildwise et Partenaires pourront servir de preuve en cas de litige.
+
+Bien que Buildwise et Partenaires mettent en œuvre tous les efforts raisonnables pour maintenir Tooli exempt de bugs, virus, chevaux de Troie ou autres programmes malveillants, l'absence totale de tels risques ne peut être garantie.
+
+En conséquence, Buildwise et Partenaires ne pourront en aucun cas être tenu responsable des dommages ou pertes qui pourraient en résulter, notamment en ce qui concerne les données de l'Utilisateur. Il appartient dès lors à ce dernier de mettre en place ses propres mesures de protection (pare-feu, antivirus, logiciels de sécurité, etc.) et de faire preuve de prudence lors de la communication d'informations personnelles.
+
+Par ailleurs, Buildwise et Partenaires déclinent toute responsabilité quant au contenu généré par Tooli. Aucune garantie n'est donnée quant à l'exactitude, l'exhaustivité ou l'actualisation des réponses fournies par l'outil. L'Utilisateur demeure seul responsable des décisions, actions ou abstentions prises sur la base des informations obtenues, et Buildwise et Partenaires ne sauraient être tenu pour responsable des conséquences, directes ou indirectes, qui pourraient en découler.
 
 B. RESPONSABILITÉ DE L'UTILISATEUR
 
 L'utilisation de Tooli, y compris la consultation de la plateforme et le téléchargement de tout contenu, intervient sous la seule responsabilité de l'Utilisateur, y compris à l'égard des tiers.
 
-Tooli est un outil d'assistance reposant sur l'intelligence artificielle. Les réponses fournies sont générées automatiquement sur la base des informations disponibles et des requêtes formulées, sans analyse contextuelle humaine. Elles ne remplacent en aucun cas l'appréciation, le jugement ou l'expertise de l'Utilisateur. Ce dernier reste responsable du contenu généré.
+Tooli est un outil d'assistance reposant sur l'intelligence artificielle. Les réponses fournies sont générées automatiquement sur la base des informations disponibles et des requêtes formulées, sans analyse contextuelle humaine. Elles ne remplacent en aucun cas l'appréciation, le jugement ou l'expertise de l'Utilisateur. Sauf dans les cas où Tooli permet l'accès, au moyen d'un outil ou module spécifique, à des documents techniques, juridiques ou autres documents professionnels contenus dans une base de données ou une base de connaissances dédiée, l'Utilisateur reste responsable du contenu généré.
 
-Buildwise ne pourra être tenu responsable, directement ou indirectement, de toute utilisation, y compris une utilisation inadaptée, erronée ou détournée de Tooli. L'Utilisateur reconnaît qu'il est seul responsable du contenu qu'il introduit via la plateforme et des décisions qu'il prend sur la base des réponses générées.
+Buildwise et Partenaires ne pourra être tenu responsable, directement ou indirectement, de toute utilisation, y compris une utilisation inadaptée, erronée ou détournée de Tooli. L'Utilisateur reconnaît qu'il est seul responsable du contenu qu'il introduit via la plateforme et des décisions qu'il prend sur la base des réponses générées.
 
 Il lui appartient, le cas échéant, de vérifier, compléter ou faire valider les résultats obtenus, en tenant compte des limites inhérentes à tout système d'IA générative, notamment le risque d'erreur, d'omission ou d'imprécision. Avant toute utilisation, l'Utilisateur doit prendre connaissance des indications relatives au fonctionnement de Tooli et suivre les recommandations d'usage.
 
-## 9. Sécurité
+## 10. Sécurité
 
-Buildwise met en place des mesures techniques et organisationnelles destinées à protéger les données et l'intégrité du système.
+Buildwise et Partenaires mettent en place des mesures techniques et organisationnelles destinées à protéger les données et l'intégrité du système.
 
 L'Utilisateur s'engage à ne pas compromettre la sécurité du Chatbot ni tenter d'en altérer les composants.
 
 Tout incident de sécurité doit être signalé immédiatement à : gdpr@buildwise.be
 
-## 10. Suspension et exclusion
+## 11. Suspension et exclusion
 
-Buildwise se réserve le droit de suspendre ou d'exclure tout Utilisateur en cas de violation, totale ou partielle, des obligations prévues par les présentes CGU. Cette exclusion pourra être temporaire ou définitive, selon la gravité du manquement et à la seule appréciation de Buildwise.
+Buildwise et Partenaires se réservent le droit de suspendre ou d'exclure tout Utilisateur en cas de violation, totale ou partielle, des obligations prévues par les présentes CGU. Cette exclusion pourra être temporaire ou définitive, selon la gravité du manquement et à la seule appréciation de Buildwise et Partenaires.
 
-## 11. Invalidité
+## 12. Invalidité
 
 L'éventuelle nullité ou invalidité d'un article, paragraphe ou disposition des présentes CGU (ou d'une partie de ceux-ci) n'affectera en rien la validité des autres stipulations, ni du reste de la disposition concernée, sauf intention contraire manifeste.
 
-Si une disposition devait être déclarée totalement invalide, Buildwise la remplacera par une clause produisant, dans la mesure du possible, un effet économique équivalent à celui recherché initialement.
+Si une disposition devait être déclarée totalement invalide, Buildwise et Partenaires la remplaceront par une clause produisant, dans la mesure du possible, un effet économique équivalent à celui recherché initialement.
 
-## 12. Droit applicable et juridiction compétente
+## 13. Droit applicable et juridiction compétente
 
 Les présentes Conditions Générales d'Utilisation sont régies par le droit belge. Les Parties s'engagent à régler à l'amiable tout différend éventuel. En cas de litige relatif à la validité, à l'interprétation, à l'exécution ou à la cessation des présentes CGU, qui ne peut pas être réglé à l'amiable, les Parties conviennent de recourir en priorité à un processus de médiation, préalablement à toute action judiciaire.
 
@@ -178,19 +206,75 @@ Une fois le médiateur désigné, les Parties fixeront, avec son assistance, les
 
 En cas d'échec de la médiation, les tribunaux de l'arrondissement judiciaire de Bruxelles seront seuls compétents pour connaître du litige.
 
-## 13. Modification du service et des CGU
+## 14. Modification du service et des CGU
 
-Buildwise peut à tout moment modifier, améliorer ou interrompre temporairement Tooli.
+Buildwise et Partenaires peuvent à tout moment modifier, améliorer ou interrompre temporairement Tooli.
 
 Les CGU peuvent également être adaptées pour refléter des changements techniques, juridiques ou organisationnels.
 
 Les modifications sont opposables dès leur publication sur le site.
 
-## 14. Contact
+## 15. Contact
 
 Pour toute question relative à Tooli ou aux présentes CGU :
 Buildwise
 Kleine Kloosterstraat 23, 1932 Zaventem
 E-mail : Pieter.van.geite@buildwise.be
 
-La présente version des Conditions Générales d'Utilisation entre en vigueur et a été mise à jour en date du 21 novembre 2025.
+## Annexe 1. Modules d'IA des Partenaires
+
+La présente Annexe énumère les Modules d'IA de Partenaires actuellement activables dans Tooli et présente, pour chacun, une fiche de module partenaire. Chaque fiche de module partenaire est limitée au format standardisé ci-dessous. Les conditions spécifiques figurant dans une fiche de module partenaire ne peuvent déroger au Tooli Promise ni imposer à l'Utilisateur des obligations supplémentaires substantielles au-delà des présentes CGU.
+
+FICHE MODULE 1 : EMMA (Embuild)
+
+Opérateur : Embuild
+
+Fonction : Assistant juridique basé sur l'IA donnant accès aux contenus juridiques d'Embuild et fournissant des orientations pour le secteur de la construction.
+
+Régime applicable dans Tooli : Tooli Promise Mode. Les présentes CGU s'appliquent. Les conditions générales autonomes d'EMMA ne s'appliquent pas lorsque le module est activé dans Tooli.
+
+EMMA utilisée en dehors de Tooli : Les conditions générales et la politique de confidentialité propres à Embuild s'appliquent exclusivement. Contact : privacy@embuild.be
+
+FICHE MODULE 2 : Risk Analyser (Constructiv)
+
+Opérateur : Constructiv
+
+Fonction : Outil d'analyse des risques basé sur l'IA donnant accès aux contenus de Constructiv et fournissant des orientations en matière de sécurité au travail et de gestion des risques dans le secteur de la construction.
+
+Régime applicable dans Tooli : Tooli Promise Mode. Les présentes CGU s'appliquent. Les conditions générales autonomes de Constructiv ne s'appliquent pas lorsque le module est activé dans Tooli.
+
+Risk Analyser utilisé en dehors de Tooli : Les conditions générales et la politique de confidentialité propres à Constructiv s'appliquent exclusivement. Contact : [contact Constructiv à compléter]
+
+FICHE MODULE 3 : NEXO (Buildwise)
+
+Opérateur : Buildwise
+
+Fonction : Outil basé sur l'IA permettant aux utilisateurs d'accéder, de rechercher et de consulter des informations et documents issus des contenus et ressources de connaissance de Buildwise, y compris des documents techniques, réglementaires et professionnels pertinents pour le secteur de la construction.
+
+Régime applicable dans Tooli : Tooli Promise Mode. Les présentes CGU s'appliquent. Les conditions générales autonomes de Buildwise ne s'appliquent pas lorsque NEXO est activé dans Tooli.
+
+NEXO utilisé en dehors de Tooli : Les conditions générales et la politique de confidentialité propres à Buildwise s'appliquent exclusivement. Contact : [contact Buildwise à compléter]
+
+## Annexe 2. Le Tooli Promise
+
+Le Tooli Promise s'applique à tous les traitements effectués dans l'environnement Tooli, y compris lorsqu'un module d'IA de Partenaire est activé. Buildwise garantit le respect de ces principes pour tous les Modules d'IA de Partenaires opérant en Tooli Promise Mode. Les 10 principes du Tooli Promise sont :
+
+Une IA conforme au RGPD et aux réglementations applicables ;
+
+Aucune réutilisation des données de l'Utilisateur pour entraîner les modèles d'IA ;
+
+Les données de l'Utilisateur restent sous son contrôle, sans mutualisation avec celles d'autres Utilisateurs ;
+
+Des mesures de sécurité renforcées ;
+
+Un hébergement européen conforme aux règles de l'UE ;
+
+La garantie d'un acteur de confiance ;
+
+Une confidentialité adaptée à un usage professionnel ;
+
+Des réponses plus fiables, avec des sources identifiées et vérifiables ;
+
+Un outil professionnel qui évolue avec le secteur de la construction ;
+
+Un assistant professionnel, et non un substitut à un conseil professionnel qualifié.

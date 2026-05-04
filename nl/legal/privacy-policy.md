@@ -6,7 +6,7 @@ locale: "nl"
 
 # === Content Metadata ===
 title: "Privacybeleid"
-description: "Privacybeleid voor Tooli platform."
+description: "Privacybeleid voor Tooli."
 seo_title: "Privacybeleid | Tooli"
 seo_description: ""
 
@@ -28,9 +28,7 @@ prev_page: "terms-of-service"
 next_page: "legal-notice"
 ---
 
-**Tooli**
-
-**Laatste update: 01 mei 2026**
+**Laatste update: 01/05/2026**
 
 ## Over dit Beleid
 
