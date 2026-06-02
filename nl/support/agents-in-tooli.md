@@ -35,7 +35,8 @@ next_page: "technical-problems"
     - **Offerte Coach** -- Beoordeelt je conceptoffertes en signaleert onduidelijke items, ontbrekende informatie en verbeterkansen
     - **Aanbesteding Checker** -- Scant aanbestedingsdocumenten en meetstaten op risico's, dubbelingen, inconsistenties en onduidelijke eenheden
     - **Verslagschrijver** -- Zet ruwe notities of transcripties om in nette, gestructureerde verslagen met beslissingen en actiepunten
-
+    - **Risicoanalyse Agent** -- Begeleidt je stap voor stap bij het opstellen en structureren van een taak-risicoanalyse, met aandacht voor risico’s, preventiemaatregelen en risicoweging
+    
     In tegenstelling tot generieke AI-chat behouden agents hun expertise en gebruiken ze consistente, professionele methoden. Je kunt op elk moment wisselen tussen agents, en Tooli behoudt je context gedurende het gesprek.
   </Accordion>
 

@@ -35,6 +35,7 @@ next_page: "technical-problems"
     - **Angebotscoach** -- Überprüft Ihre Angebotsentwürfe und erkennt unklare Posten, fehlende Informationen und Verbesserungsmöglichkeiten
     - **Prüfer für Ausschreibungsunterlagen** -- Scannt Ausschreibungsunterlagen und Leistungsverzeichnisse auf Risiken, Doppelungen, Inkonsistenzen und unklare Einheiten
     - **Protokollführer** -- Verwandelt grobe Notizen oder Transkripte in saubere, strukturierte Berichte mit Entscheidungen und Maßnahmen
+    - **Risikoanalyse Agent** -- Unterstützt Sie Schritt für Schritt bei der Erstellung und Strukturierung einer Aufgaben-Risikoanalyse mit besonderem Augenmerk auf Risiken, Präventionsmaßnahmen und Risikobewertung
 
     Im Gegensatz zu generischem KI-Chat behalten Agents ihre Expertise bei und verwenden konsistente, professionelle Methoden. Sie können jederzeit zwischen Agents wechseln, und Tooli behält Ihren Kontext über das gesamte Gespräch hinweg.
   </Accordion>

@@ -35,7 +35,8 @@ next_page: "technical-problems"
     - **Offer Coach** -- Reviews your draft quotes and spots unclear items, missing information, and improvement opportunities
     - **Tender Checker** -- Scans tender documents and BoQs for risks, duplicates, inconsistencies, and unclear units
     - **Report Writer** -- Turns rough notes or transcripts into clean, structured reports with decisions and action items
-
+    - **Risk Analysis Agent** -- Guides you step by step in drafting and structuring a task risk analysis, with attention to risks, preventive measures, and risk assessment
+    
     Unlike generic AI chat, agents maintain their expertise and use consistent, professional methods. You can switch between agents at any time, and Tooli keeps your context across the conversation.
   </Accordion>
 

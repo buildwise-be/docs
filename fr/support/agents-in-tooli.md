@@ -35,7 +35,8 @@ next_page: "technical-problems"
     - **Coach d'offre** -- Examine vos devis préliminaires et repère les éléments flous, les informations manquantes et les opportunités d'amélioration
     - **Analyseur d'appel d'offres** -- Analyse les documents d'appel d'offres et les métrés pour détecter les risques, doublons, incohérences et unités peu claires
     - **Générateur de comptes-rendus de réunion** -- Transforme des notes brutes ou des transcriptions en rapports structurés et clairs avec des décisions et des points d'action
-
+    - **Assistant d’analyse des risques** -- Vous guide pas à pas dans l’élaboration et la structuration d’une analyse des risques liée à une tâche, avec une attention particulière aux risques, aux mesures de prévention et à l’évaluation des risques
+    
     Contrairement au chat IA générique, les agents conservent leur expertise et utilisent des méthodes cohérentes et professionnelles. Vous pouvez passer d'un agent à l'autre à tout moment, et Tooli conserve votre contexte tout au long de la conversation.
   </Accordion>
 
