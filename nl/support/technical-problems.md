@@ -41,9 +41,9 @@ next_page: "mobile-and-device-support"
     Tooli accepteert de volgende bestandstypen:
 
     * PDF
-    * Microsoft Word (DOC, DOCX)
-    * Microsoft Excel (XLS, XLSX)
-    * Microsoft PowerPoint (PPT, PPTX)
+    * Microsoft Word (DOCX)
+    * Microsoft Excel (XLSX)
+    * Microsoft PowerPoint (PPTX)
     * Platte tekst (TXT)
     * Afbeeldingen (PNG, JPG, JPEG)
   </Accordion>

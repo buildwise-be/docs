@@ -41,9 +41,9 @@ next_page: "mobile-and-device-support"
     Tooli akzeptiert die folgenden Dateitypen:
 
     * PDF
-    * Microsoft Word (DOC, DOCX)
-    * Microsoft Excel (XLS, XLSX)
-    * Microsoft PowerPoint (PPT, PPTX)
+    * Microsoft Word (DOCX)
+    * Microsoft Excel (XLSX)
+    * Microsoft PowerPoint (PPTX)
     * Klartext (TXT)
     * Bilder (PNG, JPG, JPEG)
   </Accordion>
