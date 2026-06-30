@@ -101,7 +101,7 @@ function injectCookiebotDeclaration() {
 
     const script = document.createElement("script");
     script.id = "CookieDeclaration";
-    script.src = "https://consent.cookiebot.com/b579fb93-2c42-43a5-a49d-b7451ae0f1eb/cd.js";
+    script.src = "https://consent.cookiebot.com/f698509e-eff6-4699-8b8a-387728059f96/cd.js";
     script.type = "text/javascript";
     script.async = true;
 
