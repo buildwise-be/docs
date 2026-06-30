@@ -91,3 +91,28 @@ window.fetch = async function (...args) {
 
     return response;
 };
+
+function injectCookiebotDeclaration() {
+    const declarationContainer = document.getElementById("cookiebot-declaration");
+
+    if (!declarationContainer || declarationContainer.dataset.cookiebotLoaded === "true") {
+        return;
+    }
+
+    const script = document.createElement("script");
+    script.id = "CookieDeclaration";
+    script.src = "https://consent.cookiebot.com/b579fb93-2c42-43a5-a49d-b7451ae0f1eb/cd.js";
+    script.type = "text/javascript";
+    script.async = true;
+
+    declarationContainer.dataset.cookiebotLoaded = "true";
+    declarationContainer.appendChild(script);
+}
+
+injectCookiebotDeclaration();
+
+const cookiebotDeclarationObserver = new MutationObserver(injectCookiebotDeclaration);
+cookiebotDeclarationObserver.observe(document.body, {
+    childList: true,
+    subtree: true,
+});

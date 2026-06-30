@@ -135,11 +135,7 @@ These cookies are placed by third parties on our website and then on your termin
 
 ## VII. List of Cookies
 
-| Supplier | Type | Name of the cookie | Purpose | Retention period |
-|----------|------|-------------------|---------|-----------------|
-| Wonka | Technical/required | JWT | Authenticate the user and maintain their active session | Session duration |
-| Wonka | Technical/required | refreshToken | Refresh token identifier + metadata | 2 days |
-| Wonka | Technical/required | token_provider | Name of the chosen provider | 1 day |
+<div id="cookiebot-declaration"></div>
 
 ## VIII. Your Rights Regarding the Processing of Your Personal Data
 
