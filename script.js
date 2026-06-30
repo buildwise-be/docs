@@ -92,6 +92,19 @@ window.fetch = async function (...args) {
     return response;
 };
 
+function getCookiebotCulture() {
+    const language = window.location.pathname.split("/")[1];
+
+    const cultures = {
+        en: "en",
+        nl: "nl",
+        fr: "fr",
+        de: "de",
+    };
+
+    return cultures[language] || "en";
+}
+
 function injectCookiebotDeclaration() {
     const declarationContainer = document.getElementById("cookiebot-declaration");
 
@@ -104,6 +117,7 @@ function injectCookiebotDeclaration() {
     script.src = "https://consent.cookiebot.com/f698509e-eff6-4699-8b8a-387728059f96/cd.js";
     script.type = "text/javascript";
     script.async = true;
+    script.setAttribute("data-culture", getCookiebotCulture());
 
     declarationContainer.dataset.cookiebotLoaded = "true";
     declarationContainer.appendChild(script);

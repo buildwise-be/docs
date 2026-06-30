@@ -135,11 +135,7 @@ Deze cookies worden door derden op onze website en daarna op uw apparaat geplaat
 
 ## VII. Overzicht van de cookies
 
-| Leverancier | Type | Naam van de cookie | Doeleinde | Bewaartermijn |
-|-------------|------|-------------------|-----------|---------------|
-| Wonka | Technisch/nood-zakelijk | JWT | De gebruiker authenticeren en zijn sessie actief houden | Duur van de sessie |
-| Wonka | Technisch/nood-zakelijk | refreshToken | ID van de refresh token + metagegevens | 2 dagen |
-| Wonka | Technisch/nood-zakelijk | token_provider | Naam van de gekozen provider | 1 dag |
+<div id="cookiebot-declaration"></div>
 
 ## VIII. Uw rechten met betrekking tot de verwerking van uw persoonsgegevens
 

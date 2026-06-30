@@ -135,11 +135,7 @@ Ces cookies sont déposés par des tiers sur notre site web et puis sur votre te
 
 ## VII. Liste des cookies
 
-| Fournisseur | Type | Nom du cookie | Finalité | Durée de conservation |
-|-------------|------|--------------|----------|----------------------|
-| Wonka | Technique/nécessaire | JWT | Authentifier l'utilisateur et maintenir sa session active | Durée de session |
-| Wonka | Technique/nécessaire | refreshToken | Identifiant du refresh token + métadonnées | 2 jours |
-| Wonka | Technique/nécessaire | token_provider | Nom du provider choisi | 1 jour |
+<div id="cookiebot-declaration"></div>
 
 ## VIII. Vos droits sur le traitement de vos données à caractère personnel
 
